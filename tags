@@ -4,5 +4,8 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+lsp-get-server-for-install	startup.el	/^(defun lsp-get-server-for-install (name)$/;"	f
+lsp-install-server-by-name	startup.el	/^(defun lsp-install-server-by-name (name)$/;"	f
+lsp-list-all-servers	startup.el	/^(defun lsp-list-all-servers ()$/;"	f
 my-shackle-sensible-alignment	my-shackle.el	/^(defun my-shackle-sensible-alignment (&optional window)$/;"	f
 slugify	run.sh	/^slugify() {$/;"	f
